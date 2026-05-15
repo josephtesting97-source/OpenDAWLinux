@@ -1,8 +1,8 @@
-# OpenDAW
+# OpenRecorder
 
-### Digital Audio Workstation for Beginners and Vintage audio lovers
+### Recording software for Beginners and Vintage audio lovers
 
-![OpenDAW Banner](https://dummyimage.com/1200x320/111827/f3f4f6\&text=OpenDAW+-+Create+Without+Limits)
+![OpenRecorder Banner](https://dummyimage.com/1200x320/111827/f3f4f6\&text=OpenRecorder+-+Create+Without+Limits)
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux-blue">
@@ -15,7 +15,7 @@
 
 ## Overview
 
-**OpenDAW** is a lightweight still in progress **Digital Audio Workstation** for quick recording sessions. More akin to a 4 track recording, OpenDAW contains only the bare minimum to make recordings, ideal for beginners or those who like that vintage feeling of recording with limited hardware.
+**OpenRecorder** is a lightweight still in progress **Recording Software** for quick recording sessions. More akin to a 4 track recording, OpenRecorder contains only the bare minimum to make recordings, ideal for beginners or those who like that vintage feeling of recording with limited hardware.
 
 ---
 
@@ -48,9 +48,9 @@ Not needed since this is a lightweigh portable release
 
 ```powershell
 # Launch OpenDAW and set workspace
-./OpenDaw ~/Documents
+./OpenRecorder ~/Documents
 # or
-./OpenDaw ~/Desktop 
+./OpenRecorder ~/Desktop 
 ```
 
 ### Recording Audio
@@ -99,12 +99,12 @@ File → Export → WAV / MP3 / FLAC
 Released under the MIT License.
 
 ```text
-MIT License © 2026 OpenDAW Contributors
+MIT License © 2026 OpenRecorder Contributors
 ```
 
 ---
 
 <p align="center">
-  <strong>OpenDAW</strong><br>
+  <strong>OpenRecorder</strong><br>
   Create Without Limits
 </p>
